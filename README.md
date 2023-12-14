@@ -1,0 +1,2 @@
+# sincopecas_app
+ .
